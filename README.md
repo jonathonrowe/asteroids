@@ -1,4 +1,4 @@
-Add a scoring system
+- Add a scoring system \n
 Implement multiple lives and respawning
 Add an explosion effect for the asteroids
 Add acceleration to the player movement
@@ -10,3 +10,4 @@ Make the ship have a triangular hit box instead of a circular one
 Add a shield power-up
 Add a speed power-up
 Add bombs that can be dropped
+
